@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Shahnaz197/Shahnaz197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shahnaz 👋
 
-Here are some ideas to get you started:
+🎓 **Computer Science Undergraduate**  
+💻 Aspiring **Developer** | 🔐 **Cybersecurity Enthusiast** | 📊 Interested in **Data Science**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **Java, Kotlin, Python, and Cybersecurity concepts**  
+   
+- 🤝 Open to collaborating on **student projects, research, or open-source**
+- 
+- 🐾 Fun fact:I can flip an omelette hidden talent maybe   
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Java, Kotlin, Python, JavaScript  
+**Tools & Frameworks:** VS Code, IntelliJ IDEA, Git, MySQL,   
+**Interests:** Mobile Apps | Cybersecurity | Machine Learning  
+
+---
+
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my projects and connect with me
+.*
