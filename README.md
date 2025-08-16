@@ -11,7 +11,7 @@
 - 🌱 Currently learning **Java, Kotlin, Python, and Cybersecurity concepts**  
    
 - 🤝 Open to collaborating on **student projects, research, or open-source**
-- 
+  
 - 🐾 Fun fact:I can flip an omelette hidden talent maybe   
 
 ---
