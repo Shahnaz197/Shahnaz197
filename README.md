@@ -2,7 +2,7 @@
 # Hi, I'm Shahnaz 👋
 
 🎓 **Computer Science Undergraduate**  
-💻 Aspiring **Developer** | 🔐 **Cybersecurity Enthusiast** | 📊 Interested in **Data Science**  
+💻 Aspiring **Developer** | 🔐 Fullstack developer | 📊 Interested in **Data Science**  
 
 ---
 ## 🚀 About Me
@@ -11,7 +11,7 @@
 - 🤝 Open to collaborating on **student projects, research, or open-source**
   
 ## 🛠️ Tech Stack
-**Languages:** Java, Kotlin, Python, JavaScriptand Reactjs 
+**Languages:** Java, Kotlin, Python, JavaScript and Reactjs 
 **Tools & Frameworks:** VS Code, IntelliJ IDEA, Git, MySQL,   
 **Interests:** Mobile Apps | Cybersecurity | Machine Learning  
 
