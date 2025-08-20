@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 **Languages:** Java, Kotlin, Python, JavaScript and Reactjs 
 **Tools & Frameworks:** VS Code, IntelliJ IDEA, Git, MySQL,   
-**Interests:** Fullstack development,project management,cloud computiong
+**Interests:** Fullstack development,project management,cloud computing
 
 ---
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and connect with me ☕
