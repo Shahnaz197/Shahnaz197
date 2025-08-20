@@ -2,8 +2,6 @@
 # Hi, I'm Shahnaz 👋
 
 🎓 **Computer Science Undergraduate**  
-💻 Aspiring **Developer** | 🔐 Fullstack developer | 📊 Interested in **Data Science**  
-
 ---
 ## 🚀 About Me
 - 🌱 Currently learning **Java, Kotlin, Python,Javascript and Reactjs**
