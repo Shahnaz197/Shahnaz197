@@ -7,7 +7,7 @@
 ---
 ## 🚀 About Me
 - 🌱 Currently learning **Java, Kotlin, Python,Javascript and Reactjs**
-- 
+  
 - 🎯 Exploring **project management and Agile practices** to improve teamwork and delivery   
    
 - 🤝 Open to collaborating on **student projects, research, or open-source**
