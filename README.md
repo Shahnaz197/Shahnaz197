@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 **Languages:** Java, Kotlin, Python, JavaScript and Reactjs 
 **Tools & Frameworks:** VS Code, IntelliJ IDEA, Git, MySQL,   
-**Interests:** Mobile Apps | Cybersecurity | Machine Learning  
+**Interests:** Fullstack development,project management,cloud computiong
 
 ---
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and connect with me ☕
