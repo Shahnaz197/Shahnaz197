@@ -4,7 +4,7 @@
 🎓 **Computer Science Undergraduate**  
 ---
 ## 🚀 About Me
-- 🌱 Currently learning **Java, Kotlin, Python,Javascript and Reactjs**
+- 🌱 Currently learning **Java, Kotlin, Python,Javascript,Html,css and Reactjs**
   
 - 🎯 Exploring **project management and Agile practices** to improve teamwork and delivery   
    
