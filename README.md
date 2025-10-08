@@ -1,5 +1,5 @@
 
-# Hi, I'm Shahnaz �
+# Hi, I'm Shahnaz 
  **Computer Science Undergraduate**  
 ---
 ##  About Me
