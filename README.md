@@ -1,17 +1,24 @@
+# Hey, I'm Shahnaz 👋
 
-# Hi, I'm Shahnaz 
- **Computer Science Undergraduate**  
----
-##  About Me
-Currently learning **Java, Kotlin, Python,Javascript,Html,css and Reactjs**
-  
-Exploring **project management and Agile practices** to improve teamwork and delivery   
-   
-Open to collaborating on **student projects, research, or open-source**
-  
- Tech Stack
-**Languages:** Java, Kotlin, Python, JavaScript and Reactjs 
-**Tools & Frameworks:** VS Code, IntelliJ IDEA, Git, MySQL,   
-**Interests:** Fullstack development,project management,cloud computing
+Explore with curiosity, create with purpose.
+
+### Software Developer 
+
+I'm interested in building practical software and exploring AI and modern technologies.
+
+###  Tech Stack
+
+**Languages:** Java · Python · C · SQL  
+**Technologies:** MySQL · Docker · Git · GitHub  
 
 
+###  Currently Exploring
+
+- Software development
+- Applied AI & Machine Learning
+- Cloud Computing
+- Project Management & Agile
+
+### 🤝 Open to
+
+Collaborating on **software projects, research, and open-source projects**.
