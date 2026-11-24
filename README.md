@@ -1,10 +1,6 @@
-# Hey, I'm Shahnaz 👋
+# Explore with curiosity, create with purpose.
 
-Explore with curiosity, create with purpose.
-
-### Software Developer 
-
-I'm interested in building practical software and exploring AI and modern technologies.
+Hey, I'm Shahnaz, a passionate software engineer and research enthusiast with a keen interest in applied AI, software development, and emerging technologies. I enjoy exploring how AI can solve real-world problems, building innovative software solutions, and contributing to meaningful projects through research, experimentation, and engineering.
 
 ###  Tech Stack
 
@@ -17,7 +13,6 @@ I'm interested in building practical software and exploring AI and modern techno
 - Software development
 - Applied AI & Machine Learning
 - Cloud Computing
-- Project Management & Agile
 
 ### 🤝 Open to
 
