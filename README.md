@@ -12,6 +12,7 @@ Hey, I'm Shahnaz, a passionate software engineer and research enthusiast with a 
 
 - Software development
 - Applied AI & Machine Learning
+- Agentic AI & Security
 - Cloud Computing
 
 ### 🤝 Open to
